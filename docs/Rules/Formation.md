@@ -1,0 +1,4 @@
+- All units belong to a formation
+	- a formation can consist of 1 unit
+- Every unit must be within 5cm of at least one other unit in the formation
+- If the Chain is broken then the next time the unit is activated it must perform an action that would fix this

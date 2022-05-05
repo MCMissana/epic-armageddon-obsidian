@@ -1,0 +1,6 @@
+- every formation has an initiative value
+	- lower better
+		- space marine: 1+
+		- Ork: 3+
+- used to active and rally the formation
+- formations may have different initiative values
