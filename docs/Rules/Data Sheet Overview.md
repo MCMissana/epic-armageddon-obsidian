@@ -11,3 +11,5 @@
 
 ### Fearless
 - [[Assault#Extra Hits|Extra hits]] suffered can be applied to units that are being transported in a fearless [[Transports|transport]]
+
+### Tunneler
