@@ -1,3 +1,4 @@
+### Barrage Table
 BP | Extra Templates | Extra Blast Markers | To Hit 
 ------------ | ------------ | ------------ | ------------ 
 1	|  None | None | AP6+/AT6+
