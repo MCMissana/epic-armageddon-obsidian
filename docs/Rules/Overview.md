@@ -32,7 +32,7 @@
 
 #### End Phase
 - Takes place at the end of the  turn, once both players have taken an action with each of their [[Broken Formations|unbroken formations]]. 
-- Both players must attempt to rally any  formations and then check the scenario victory conditions to see if either side has won. 
+- Both players must attempt to [[Rally]] any formations and then check the scenario victory conditions to see if either side has won. 
 
 ### Strategy Roll
 

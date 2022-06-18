@@ -24,4 +24,4 @@
 ### End Phase
 - [[Overview#End Phase|End Phase]]
 - [[Broken Formations]]
-- [[Regroup]]
+- [[Rally]]

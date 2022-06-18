@@ -11,8 +11,9 @@
 - remove all blast markers
 - denote it as being broken
 
-### Regrouping
-- Formations may take a [[Actions#Marshall|marshall]] action to regroup 
+### Unbreaking
+- A formation can recover from being broken in the end phase, see [[Rally]]
+- Take [[Actions#Marshall|marshall]] actions to prevent units from breaking
 
 ### Becoming Broken
 - Check to see if a formation is broken after any time it receives a [[Blast Markers|blast marker]]
